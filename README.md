@@ -134,9 +134,9 @@ np.mean(predict(res.x,X)==y)
 ## Decision boundary - graph for exam score
 ![322346232-746c6c23-aced-4649-aeaf-1b217de89468](https://github.com/swathisiva212/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/eba20280-d813-4a66-aa88-b6dcc1743b7c)
 ## Probability value
-![322346327-643c5118-4c95-4595-a72f-eb7eef062130](https://github.com/rajalakshmi8248/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/62b1a460-68fd-447b-9e65-313899c06e0e)
+![322346327-643c5118-4c95-4595-a72f-eb7eef062130](https://github.com/swathisiva212/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/62b1a460-68fd-447b-9e65-313899c06e0e)
 ## prediction value of mean
-![322346441-b2724af8-10df-4290-b81f-392cc44f71d2](https://github.com/rajalakshmi8248/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/aa7d64c0-9405-4330-a656-83fc0ea832e4)
+![322346441-b2724af8-10df-4290-b81f-392cc44f71d2](https://github.com/swathisiva212/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/aa7d64c0-9405-4330-a656-83fc0ea832e4)
 
 
 
