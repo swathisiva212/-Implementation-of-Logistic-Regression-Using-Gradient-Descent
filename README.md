@@ -118,21 +118,21 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 ## ARRAY VALUE OF X
-![322345559-adba9bb9-8ee7-4521-865f-6541556e98ef](https://github.com/rajalakshmi8248/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/03ed711c-7af2-44fb-9215-a19800962b31)
+![322345559-adba9bb9-8ee7-4521-865f-6541556e98ef](https://github.com/swathisiva212/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/03ed711c-7af2-44fb-9215-a19800962b31)
 ## ARRAY VALUE OF Y
-![322345635-c139e7cf-d762-4166-86bd-41e30276be31](https://github.com/rajalakshmi8248/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/a1ea5288-4629-4ab2-bac4-fdb57567c2bb)
+![322345635-c139e7cf-d762-4166-86bd-41e30276be31](https://github.com/swathisiva212/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/a1ea5288-4629-4ab2-bac4-fdb57567c2bb)
 ## EXAM1:SCORE GRAPH
-![322345774-a8bb8788-e304-4b17-a64f-5e419af27a43](https://github.com/rajalakshmi8248/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/b9d7803d-e87a-474c-94e0-d50f507dff2b)
+![322345774-a8bb8788-e304-4b17-a64f-5e419af27a43](https://github.com/swathisiva212/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/b9d7803d-e87a-474c-94e0-d50f507dff2b)
 ## SIGMOID FUNCTION GRAPH
-![322345917-7e30dc25-1f43-4009-adda-b125bdc7bf43](https://github.com/rajalakshmi8248/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/3b833922-2ab6-4e0a-aed9-ac530e860844)
+![322345917-7e30dc25-1f43-4009-adda-b125bdc7bf43](https://github.com/swathisiva212/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/3b833922-2ab6-4e0a-aed9-ac530e860844)
 ## X_train_grad value
-![322346007-0488c1ba-5dd5-4051-a740-a93a1c75e795](https://github.com/rajalakshmi8248/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/6b94152e-2104-4eeb-b50b-045bb0ce3f31)
+![322346007-0488c1ba-5dd5-4051-a740-a93a1c75e795](https://github.com/swathisiva212/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/6b94152e-2104-4eeb-b50b-045bb0ce3f31)
 ## Y_train_grad value
-![322346048-45d08099-e177-47d2-941a-3654cfbb76bf](https://github.com/rajalakshmi8248/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/2880472d-f386-4932-a4eb-46a4f4cf807d)
+![322346048-45d08099-e177-47d2-941a-3654cfbb76bf](https://github.com/swathisiva212/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/2880472d-f386-4932-a4eb-46a4f4cf807d)
 ## Print resx
-![322346154-de9a4fb6-4f29-4683-83cd-44c8f373090d](https://github.com/rajalakshmi8248/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/9ccda9d4-fda4-4f92-9fd6-97372dfd80d7)
+![322346154-de9a4fb6-4f29-4683-83cd-44c8f373090d](https://github.com/swathisiva212/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/9ccda9d4-fda4-4f92-9fd6-97372dfd80d7)
 ## Decision boundary - graph for exam score
-![322346232-746c6c23-aced-4649-aeaf-1b217de89468](https://github.com/rajalakshmi8248/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/eba20280-d813-4a66-aa88-b6dcc1743b7c)
+![322346232-746c6c23-aced-4649-aeaf-1b217de89468](https://github.com/swathisiva212/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/eba20280-d813-4a66-aa88-b6dcc1743b7c)
 ## Probability value
 ![322346327-643c5118-4c95-4595-a72f-eb7eef062130](https://github.com/rajalakshmi8248/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/122860827/62b1a460-68fd-447b-9e65-313899c06e0e)
 ## prediction value of mean
